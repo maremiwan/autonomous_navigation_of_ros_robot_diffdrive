@@ -10,7 +10,7 @@ Source code for chapters of book [*Autonomous Navigation of ROS Robot - Differen
    
 3. [Simple Navigation with Differential Drive Plugin](https://kiranpalla.com/autonomous-navigation-ros-differential-drive-robot-simulation/simple-navigation-with-differential-drive-plugin/)
    
-4. Creating Map using Laser Scanner [TBD]
+4. [Creating Map using Laser Scanner](https://kiranpalla.com/autonomous-navigation-ros-differential-drive-robot-simulation/creating-map-using-laser-scanner-and-gmapping/)
    
 5. Configuring SLAM Planners [TBD]
    
